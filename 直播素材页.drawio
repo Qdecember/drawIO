@@ -7,7 +7,7 @@
         <mxCell id="0EhDs8dfuMn-vBu2FBxx-1" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="26" y="160" width="247" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="0EhDs8dfuMn-vBu2FBxx-2" value="My Posts Activity" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="0EhDs8dfuMn-vBu2FBxx-2" value="直播素材Fragment" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="80" y="20" width="179" height="54" as="geometry" />
         </mxCell>
         <mxCell id="0EhDs8dfuMn-vBu2FBxx-3" value="素材集合页" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -22,7 +22,7 @@
         <mxCell id="0EhDs8dfuMn-vBu2FBxx-7" value="选择模板" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="501" y="440" width="118" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="0EhDs8dfuMn-vBu2FBxx-8" value="预览效果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0EhDs8dfuMn-vBu2FBxx-8" value="预览模板" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="520" y="640" width="124" height="54" as="geometry" />
         </mxCell>
         <mxCell id="0EhDs8dfuMn-vBu2FBxx-10" value="点击直播场次" style="curved=1;startArrow=none;endArrow=block;exitX=0.32;exitY=1;entryX=0.22;entryY=-0.01;rounded=0;" edge="1" parent="1" source="0EhDs8dfuMn-vBu2FBxx-2" target="0EhDs8dfuMn-vBu2FBxx-3">
