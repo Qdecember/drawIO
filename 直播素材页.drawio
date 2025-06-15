@@ -1,9 +1,112 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="25.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.5">
   <diagram name="第 1 页" id="QN4BQqa3ShlhkwHOHNob">
-    <mxGraphModel>
+    <mxGraphModel dx="1018" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0EhDs8dfuMn-vBu2FBxx-1" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="26" y="160" width="247" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="0EhDs8dfuMn-vBu2FBxx-2" value="My Posts Activity" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="20" width="179" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="0EhDs8dfuMn-vBu2FBxx-3" value="素材集合页" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="100" y="172" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="0EhDs8dfuMn-vBu2FBxx-4" value="选择MP4素材" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="73" y="298" width="153" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="0EhDs8dfuMn-vBu2FBxx-6" value="素材模板页" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="490" y="298" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="0EhDs8dfuMn-vBu2FBxx-7" value="选择模板" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="501" y="440" width="118" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="0EhDs8dfuMn-vBu2FBxx-8" value="预览效果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="520" y="640" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="0EhDs8dfuMn-vBu2FBxx-10" value="点击直播场次" style="curved=1;startArrow=none;endArrow=block;exitX=0.32;exitY=1;entryX=0.22;entryY=-0.01;rounded=0;" edge="1" parent="1" source="0EhDs8dfuMn-vBu2FBxx-2" target="0EhDs8dfuMn-vBu2FBxx-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="96" y="110" />
+              <mxPoint x="96" y="147" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EhDs8dfuMn-vBu2FBxx-11" value="设置筛选条件" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=1;entryX=0.74;entryY=-0.01;rounded=0;" edge="1" parent="1" source="0EhDs8dfuMn-vBu2FBxx-2" target="0EhDs8dfuMn-vBu2FBxx-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="236" y="110" />
+              <mxPoint x="236" y="147" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EhDs8dfuMn-vBu2FBxx-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.43;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0EhDs8dfuMn-vBu2FBxx-3" target="0EhDs8dfuMn-vBu2FBxx-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="149" y="262" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EhDs8dfuMn-vBu2FBxx-15" value="选择完成" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0;entryY=0.26;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="0EhDs8dfuMn-vBu2FBxx-3" target="0EhDs8dfuMn-vBu2FBxx-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="219" y="262" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EhDs8dfuMn-vBu2FBxx-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0EhDs8dfuMn-vBu2FBxx-6" target="0EhDs8dfuMn-vBu2FBxx-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="564" y="388" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EhDs8dfuMn-vBu2FBxx-18" value="模板2" style="curved=1;startArrow=none;endArrow=block;exitX=0.48;exitY=1;entryX=0.35;entryY=0;rounded=0;" edge="1" parent="1" source="0EhDs8dfuMn-vBu2FBxx-7" target="0EhDs8dfuMn-vBu2FBxx-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="568" />
+              <mxPoint x="560" y="604" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EhDs8dfuMn-vBu2FBxx-19" value="模板3" style="curved=1;startArrow=none;endArrow=block;exitX=0.86;exitY=1;entryX=0.57;entryY=0;rounded=0;" edge="1" parent="1" source="0EhDs8dfuMn-vBu2FBxx-7" target="0EhDs8dfuMn-vBu2FBxx-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="625" y="568" />
+              <mxPoint x="625" y="604" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EhDs8dfuMn-vBu2FBxx-21" value="点击合成按钮" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.99;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0EhDs8dfuMn-vBu2FBxx-6" target="0EhDs8dfuMn-vBu2FBxx-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="393" y="388" />
+            </Array>
+            <mxPoint x="393" y="457" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EhDs8dfuMn-vBu2FBxx-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0EhDs8dfuMn-vBu2FBxx-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="610" as="sourcePoint" />
+            <mxPoint x="540" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EhDs8dfuMn-vBu2FBxx-31" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;模板1&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="501" y="585" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0EhDs8dfuMn-vBu2FBxx-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0EhDs8dfuMn-vBu2FBxx-36" target="0EhDs8dfuMn-vBu2FBxx-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EhDs8dfuMn-vBu2FBxx-36" value="是否缩略成小窗" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="330" y="459" width="110" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="0EhDs8dfuMn-vBu2FBxx-37" value="合成小窗" style="whiteSpace=wrap;strokeWidth=2;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="323" y="620" width="124" height="54" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
